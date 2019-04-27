@@ -1,2 +1,6 @@
 # Cached-plus-plus-backend
-DB Caching
+Backend for DB Caching Software
+
+Install python2 and psycopg2 library
+
+Go to main folder and run python app.py
